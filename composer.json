@@ -1,0 +1,20 @@
+{
+    "name": "my-app/template-psr",
+    "description": "Template PHP PSR-4",
+    "authors": [
+        {
+            "name": "Breno Augusto R. Campos",
+            "email": "brenoarcampos@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.0.0",
+        "components/jquery": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "MyApp\\": "src/my_app"
+        }
+    }
+}
