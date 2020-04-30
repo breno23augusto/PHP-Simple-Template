@@ -6,4 +6,4 @@ Template para sistema PHP simples.
 # Instalação
  - Clone;
  - Execute composer update.
- - localhost/sua_pasta/public
+ - Para ver a aplicação vá até: localhost/sua_pasta/public
