@@ -1,7 +1,7 @@
 # PHP-Simple-Template
 Template para sistema PHP simples.
  - Sistema de naveção(Pages)
- - Classe Banco de dados
+ - Classe Banco de dados simples
  
 # Instalação
  - Clone;
