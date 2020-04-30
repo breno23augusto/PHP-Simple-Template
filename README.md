@@ -5,4 +5,4 @@ Template para sistema PHP simples.
  
 # Instalação
  - Clone;
- - Execute composer update;
+ - Execute composer update.
